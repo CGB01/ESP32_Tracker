@@ -1,0 +1,26 @@
+//
+// Configuration file for ESP32_Tracker
+//
+UserName=
+Motorcycle=
+Mileage=
+OilChange=
+DweetName=
+HomeLatitude=
+HomeLongitude=
+HomeRadius=
+CellWiFi=
+CellPass=
+HomeWiFi=
+HomePass=
+HostName=
+HostPass=
+MinDailyDistance=
+DailyShutdown=
+LightBox=
+
+//
+// Define OpenWeatherMap.org and Google API credentials
+//
+OWappid=
+GoogleAPI=
